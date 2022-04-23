@@ -51,6 +51,9 @@ Languages
 
 <h2> My Stats </h2>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna619&theme=monokai)
+
+
 
 
 [![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=krishna619&theme=react-dark)](https://github.com/krishna619/github-readme-activity-graph)
