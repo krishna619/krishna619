@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">I'm Krishna Chandhok, a Cyber Security Enthusiast <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">I'm Krishna Chandhok, a Cyber Security Enthusiast <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
  
  ![Twitter Follow](https://img.shields.io/twitter/follow/ChandhokKrishna?style=social)
  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishna_619)
@@ -64,6 +64,6 @@ Languages
 
 📫Connect with me:
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/krishna-chandhok/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/ChandhokKrishna) 
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:krishnachandhok04@gmail.com)
+<a href = "https://www.linkedin.com/in/krishna-chandhok/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ChandhokKrishna"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
