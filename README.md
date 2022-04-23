@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<h2 align="center">I'm Krishna Chandhok, a Cyber Security Enthusiast <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h1 align="center">I'm Krishna Chandhok, a Cyber Security Enthusiast <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
  
+
+
  ![Twitter Follow](https://img.shields.io/twitter/follow/ChandhokKrishna?style=social)
  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishna_619)
  
- <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h2>About me</h2>
 
