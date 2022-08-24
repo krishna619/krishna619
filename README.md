@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 
-I am an undergraduate student at Birla Institute Of Technology and Science, Pilani [BITS, Pilani]. I am currently a Third-Year student. I have recently been certified by the International Cybersecurity Institute, UK  as a Network Security Specialist.
+I am an undergraduate student at Birla Institute Of Technology and Science, Pilani [BITS, Pilani]. I am currently a Final-Year student. I have recently been certified by the International Cybersecurity Institute, UK  as a Network Security Specialist.
 I am constantly expanding my horizons. I have been actively involved in various college activities. The contributions in these activities have helped me grow as an individual and develop leadership capabilities. I am passionate about improving User Data Security and Finance.
 
    
