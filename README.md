@@ -5,7 +5,6 @@
 
 
  ![Twitter Follow](https://img.shields.io/twitter/follow/ChandhokKrishna?style=social)
- [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishna_619)
  
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
